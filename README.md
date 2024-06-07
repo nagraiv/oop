@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wla9u9k2i6enrjd7/branch/master?svg=true)](https://ci.appveyor.com/project/nagraiv/oop/branch/master)
+
 # Домашнее задание к лекции «Классы, наследование» [ссылка](https://github.com/netology-code/ajs-homeworks/tree/ajs8/oop)
 
 **Важно**: код должен проходить ESLint без ошибок.
